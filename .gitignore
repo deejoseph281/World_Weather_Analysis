@@ -1,3 +1,9 @@
+#Adding config.py file.
+config.py
+
+#Adding additional files
+CU-VIRT-DATA-PT-10-2022-U-B
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
